@@ -3,8 +3,7 @@ pragma solidity >=0.8.2 <0.9.0;
 
 contract RizalLibrary {
 
-    // Instantiation of variables here
-        // i.e. current_owner, balance_owner, members_contract
+    // Instantiation of state variables 
 
     address private student;
 
